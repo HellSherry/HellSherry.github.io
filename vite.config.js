@@ -12,7 +12,7 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  base: '/ck/',
+  // base: '/ck/',
   resolve: {
     alias: {
       // '@': path.resolve(__dirname, './src/'),
