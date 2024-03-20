@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as a,r as c,F as r,a as _}from"./index-a5253b46.js";const o={},n=["src"];function i(l,d){return t(),a(r,null,c(5,e=>_("img",{draggable:"false",src:"//pic.sherry.games/assets/aboutpic/img"+(e+3)+".jpg",style:{width:"100%"}},null,8,n)),64)}const p=s(o,[["render",i],["__scopeId","data-v-17c7e644"]]);export{p as default};
