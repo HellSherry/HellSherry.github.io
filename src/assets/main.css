@@ -1,0 +1,31 @@
+.t-dialog__header .t-steps-item__icon .t-icon:not(.t-icon-close){
+
+  padding-left: 10px;
+  transform: scale(70%);
+}
+.nut-tabbar:last-child{
+  backdrop-filter: blur(20px);
+  background-color: rgba(255, 255, 255, 0.8);
+}
+.nut-navbar{
+  box-shadow: none !important;
+}
+.t-list-item__meta-avatar{
+
+  user-select: none;
+  border-radius: 12px !important;
+}
+.box .t-menu__item.t-is-active[data-v-8b05e410]{
+  border-bottom: 2px solid var(--td-brand-color-5);
+  background-color: rgba(234, 236, 255, 0.32) !important;
+}
+div[data-v-b31088a9] .nut-tabs.horizontal .nut-sticky__box>.nut-tabs__titles .nut-tabs__titles-item, div[data-v-b31088a9] .nut-tabs.horizontal>.nut-tabs__titles .nut-tabs__titles-item
+{
+  background-color: var(--td-bg-color-container) !important;
+}
+div[data-v-b31088a9] .nut-tabs .nut-tabs__titles .nut-tabs__titles-item__text.ellipsis{
+
+  color: var(--td-text-color-primary)!important;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
